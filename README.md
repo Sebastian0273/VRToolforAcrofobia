@@ -7,7 +7,7 @@ Actualmente, la aplicación desarrollada cuenta con 6 escenarios que buscan prod
 
 A continuacion se presentan algunas imagenes muestra del proyecto realizado y un video de su funcionamiento con un paciente:
 
-#Video
+# Video
 https://drive.google.com/file/d/1aA2qZlDUpQzzVHz0o5177ropmckkr3fT/view?usp=sharing
 
 
