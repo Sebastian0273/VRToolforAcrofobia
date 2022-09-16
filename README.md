@@ -7,10 +7,8 @@ Actualmente, la aplicación desarrollada cuenta con 6 escenarios que buscan prod
 
 A continuacion se presentan algunas imagenes muestra del proyecto realizado y un video de su funcionamiento con un paciente:
 
-# Video:
-https://drive.google.com/file/d/1aA2qZlDUpQzzVHz0o5177ropmckkr3fT/view?usp=sharing
+## Video: https://drive.google.com/file/d/1aA2qZlDUpQzzVHz0o5177ropmckkr3fT/view?usp=sharing
 
-# Imagenes:
 
 ![com android game-20210930-110157](https://user-images.githubusercontent.com/89799154/190680708-cecf9e67-a1f7-41fc-b5fe-897917dab7cc.jpg)
 
