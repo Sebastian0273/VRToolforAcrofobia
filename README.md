@@ -5,8 +5,10 @@ El proyecto ha sido realizado mediante el motor Unity 3D, el desarrollo de la he
 
 Actualmente, la aplicación desarrollada cuenta con 6 escenarios que buscan producir la sensación de una altura simulada a lo largo de distintos niveles con diferentes elementos de exposición. La aplicación funciona únicamente para el dispositivo Oculus Quest 2.
 
+
+![com android game-20210930-110157](https://user-images.githubusercontent.com/89799154/190680708-cecf9e67-a1f7-41fc-b5fe-897917dab7cc.jpg)
+
 ![com android game-20210930-110419](https://user-images.githubusercontent.com/89799154/190680490-a549c809-0813-44d4-94ec-d4b68591d348.jpg)
 
 ![com android game-20210930-111415](https://user-images.githubusercontent.com/89799154/190680179-6b52d1dc-0ac9-401a-9e82-f1f062652506.jpg)
 
-![com android game-20210930-110157](https://user-images.githubusercontent.com/89799154/190680708-cecf9e67-a1f7-41fc-b5fe-897917dab7cc.jpg)
