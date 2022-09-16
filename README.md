@@ -8,7 +8,8 @@ Actualmente, la aplicación desarrollada cuenta con 6 escenarios que buscan prod
 
 ![com android game-20210930-110157](https://user-images.githubusercontent.com/89799154/190680708-cecf9e67-a1f7-41fc-b5fe-897917dab7cc.jpg)
 
+![com android game-20210930-111415](https://user-images.githubusercontent.com/89799154/190680179-6b52d1dc-0ac9-401a-9e82-f1f062652506.jpg)
+
 ![com android game-20210930-110419](https://user-images.githubusercontent.com/89799154/190680490-a549c809-0813-44d4-94ec-d4b68591d348.jpg)
 
-![com android game-20210930-111415](https://user-images.githubusercontent.com/89799154/190680179-6b52d1dc-0ac9-401a-9e82-f1f062652506.jpg)
 
